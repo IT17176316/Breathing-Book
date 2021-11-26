@@ -1,0 +1,7 @@
+lion
+mouse
+grasshopper
+fox
+ant
+bear
+king
